@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 70px;
+}
+body{
+    background-color: rgb(237, 231, 227) !important;  
+    padding-top: 100px;
+}
+.nav{
+    background-color: rgb(22, 105, 122);
+}
+li a{
+    color: white !important;
+}
+.doct-img{
+    width: 100%;
+}
+.cardImg{
+    height: 250px;
+    width: 100%;
+}
+.card-text{
+    text-align: justify;
+    text-justify: auto;
+}
+
+.form-control{
+    color: rgb(22, 105, 122);
+    margin-bottom: 8px;
+}
+footer{
+    background-color: rgb(22, 105, 122);
+    padding: 15px;
+    margin-top: 18px;
+    color: white;
+}
+.carousel-item{
+    padding-bottom: 7%;
+    padding-top: 3%;
+}
